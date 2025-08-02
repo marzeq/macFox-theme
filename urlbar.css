@@ -15,7 +15,7 @@
 }
 
 #urlbar-container {
-	max-width: 50% !important;
+	max-width: 75% !important;
 }
 
 #urlbar {
@@ -30,8 +30,8 @@
 }
 
 /* Centers text in urlbar */
-#urlbar:not([focused]) #urlbar-input {
-	text-align: center !important;
+#urlbar #urlbar-input {
+  padding-left: 4px !important;
 }
 
 /* Urlbar icons look */

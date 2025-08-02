@@ -13,6 +13,10 @@
 	background-color: transparent !important;
 }
 
+#nav-bar-customization-target {
+  padding-left: 8px !important;
+}
+
 #navigator-toolbox[inFullscreen] {
 	background-color: var(--background-color-primary) !important;
 }
